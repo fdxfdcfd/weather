@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e14bd717-fc81-4d6a-9075-ff60cf7ab0be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="weather.local" id="fb0c3b6d-c6e3-4b25-b8a7-240cc23596fa" name="weather.local" />
+    </servers>
+  </component>
+  <component name="ProjectId" id="1fti1M6WWH7jWBmmNeXLL3bC77c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pub/static/css" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pub/static/css" />
+      <recent name="$PROJECT_DIR$/pub/static/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/code" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e14bd717-fc81-4d6a-9075-ff60cf7ab0be" name="Default Changelist" comment="" />
+      <created>1597043573282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597043573282</updated>
+      <workItem from="1597043574642" duration="501000" />
+      <workItem from="1597045826388" duration="301000" />
+      <workItem from="1597046318911" duration="12189000" />
+      <workItem from="1597058627717" duration="852000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="545" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597050429263">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state x="545" y="214" key="#com.intellij.fileTypes.FileTypeChooser/1600.0.1600.900/0.0.1600.854@0.0.1600.854" timestamp="1597050429263" />
+    <state x="609" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1597050497256">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state x="609" y="92" key="#com.intellij.ide.util.MemberChooser/1600.0.1600.900/0.0.1600.854@0.0.1600.854" timestamp="1597050497256" />
+    <state x="537" y="179" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1597051746580">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state x="537" y="179" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/1600.0.1600.900/0.0.1600.854@0.0.1600.854" timestamp="1597051746580" />
+    <state x="587" y="179" key="FileChooserDialogImpl" timestamp="1597058520371">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state x="587" y="179" key="FileChooserDialogImpl/1600.0.1600.900/0.0.1600.854@0.0.1600.854" timestamp="1597058520371" />
+    <state width="1598" height="776" key="GridCell.Tab.0.bottom" timestamp="1597058521864">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state width="1598" height="776" key="GridCell.Tab.0.bottom/1600.0.1600.900/0.0.1600.854@0.0.1600.854" timestamp="1597058521864" />
+    <state width="1598" height="776" key="GridCell.Tab.0.center" timestamp="1597058521864">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state width="1598" height="776" key="GridCell.Tab.0.center/1600.0.1600.900/0.0.1600.854@0.0.1600.854" timestamp="1597058521864" />
+    <state width="1598" height="776" key="GridCell.Tab.0.left" timestamp="1597058521864">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state width="1598" height="776" key="GridCell.Tab.0.left/1600.0.1600.900/0.0.1600.854@0.0.1600.854" timestamp="1597058521864" />
+    <state width="1598" height="776" key="GridCell.Tab.0.right" timestamp="1597058521864">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state width="1598" height="776" key="GridCell.Tab.0.right/1600.0.1600.900/0.0.1600.854@0.0.1600.854" timestamp="1597058521864" />
+    <state width="1598" height="776" key="GridCell.Tab.1.bottom" timestamp="1597058521864">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state width="1598" height="776" key="GridCell.Tab.1.bottom/1600.0.1600.900/0.0.1600.854@0.0.1600.854" timestamp="1597058521864" />
+    <state width="1598" height="776" key="GridCell.Tab.1.center" timestamp="1597058521864">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state width="1598" height="776" key="GridCell.Tab.1.center/1600.0.1600.900/0.0.1600.854@0.0.1600.854" timestamp="1597058521864" />
+    <state width="1598" height="776" key="GridCell.Tab.1.left" timestamp="1597058521864">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state width="1598" height="776" key="GridCell.Tab.1.left/1600.0.1600.900/0.0.1600.854@0.0.1600.854" timestamp="1597058521864" />
+    <state width="1598" height="776" key="GridCell.Tab.1.right" timestamp="1597058521864">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state width="1598" height="776" key="GridCell.Tab.1.right/1600.0.1600.900/0.0.1600.854@0.0.1600.854" timestamp="1597058521864" />
+    <state width="1598" height="776" key="GridCell.Tab.2.bottom" timestamp="1597058521865">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state width="1598" height="776" key="GridCell.Tab.2.bottom/1600.0.1600.900/0.0.1600.854@0.0.1600.854" timestamp="1597058521865" />
+    <state width="1598" height="776" key="GridCell.Tab.2.center" timestamp="1597058521865">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state width="1598" height="776" key="GridCell.Tab.2.center/1600.0.1600.900/0.0.1600.854@0.0.1600.854" timestamp="1597058521865" />
+    <state width="1598" height="776" key="GridCell.Tab.2.left" timestamp="1597058521865">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state width="1598" height="776" key="GridCell.Tab.2.left/1600.0.1600.900/0.0.1600.854@0.0.1600.854" timestamp="1597058521865" />
+    <state width="1598" height="776" key="GridCell.Tab.2.right" timestamp="1597058521865">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state width="1598" height="776" key="GridCell.Tab.2.right/1600.0.1600.900/0.0.1600.854@0.0.1600.854" timestamp="1597058521865" />
+    <state x="625" y="343" key="NewPhpFileDialog" timestamp="1597058817743">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state x="625" y="343" key="NewPhpFileDialog/1600.0.1600.900/0.0.1600.854@0.0.1600.854" timestamp="1597058817743" />
+    <state x="637" y="214" key="PhpDebugProjectChooserDialog" timestamp="1597058200857">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state x="637" y="214" key="PhpDebugProjectChooserDialog/1600.0.1600.900/0.0.1600.854@0.0.1600.854" timestamp="1597058200857" />
+    <state x="308" y="56" key="SettingsEditor" timestamp="1597043577929">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state x="308" y="56" key="SettingsEditor/1600.0.1600.900/0.0.1600.854@0.0.1600.854" timestamp="1597043577929" />
+    <state width="800" height="427" key="XDebugger.FullValuePopup" timestamp="1597058144017">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state width="800" height="427" key="XDebugger.FullValuePopup/1600.0.1600.900/0.0.1600.854@0.0.1600.854" timestamp="1597058144017" />
+    <state x="506" y="167" width="588" height="520" key="find.popup" timestamp="1597043941333">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state x="506" y="167" width="588" height="520" key="find.popup/1600.0.1600.900/0.0.1600.854@0.0.1600.854" timestamp="1597043941333" />
+    <state x="463" y="175" width="672" height="678" key="search.everywhere.popup" timestamp="1597053806148">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state x="463" y="175" width="672" height="678" key="search.everywhere.popup/1600.0.1600.900/0.0.1600.854@0.0.1600.854" timestamp="1597053806148" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="index.php">
+        <watch expression="$fileName" language="PHP" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
